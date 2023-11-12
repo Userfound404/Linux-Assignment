@@ -1,4 +1,4 @@
-# Linux-Assignment****
+# Linux-Assignment
 
 This is my submission for Linux assignment, My work is on **Quantum Machine Learning**. Where I briefly explain how we use Quantum Variational Circuits(VQC's) to devolop machine learning models.
 
