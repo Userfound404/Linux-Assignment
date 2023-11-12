@@ -2,7 +2,7 @@
 
 This is my submission for Linux assignment, My work is on **Quantum Machine Learning**. Where I briefly explain how we use Quantum Variational Circuits(VQC's) to devolop machine learning models.
 
-### The video can be found [link](https://drive.google.com/file/d/1IJCz1RVWWjuc7xUnDHsbKNlXPFUfNiM6/view?usp=sharing)
+### The video can be found [here](https://drive.google.com/file/d/1IJCz1RVWWjuc7xUnDHsbKNlXPFUfNiM6/view?usp=sharing)
 
 ### Description 
 The basic idea behind quantum machine learning is to leverage the unique properties of quantum systems, such as superposition and entanglement, to perform certain computational tasks more efficiently than classical methods.
